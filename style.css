@@ -1,0 +1,11 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: Tahoma;
+}
+#header h1{
+	color: red;
+}
+#header p{
+	color: blue;
+}
