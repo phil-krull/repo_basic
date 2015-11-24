@@ -1,0 +1,28 @@
+Github and created a new repo a named it repo_basic. 
+
+Created a folder on my local machine and named it repo_basic.  
+
+Used git init to inialize the local repo.  
+
+Created 2 sets of files and added some changes.
+
+git add . the files.
+
+git commit -m to commit files.
+
+git remote to add files to Github.
+
+Made more changes to the files locally.  
+
+git add . the files.
+
+git commit -am to commit files.
+
+git remote to add files to Github.
+
+Created new file for steps taken.
+
+git add . the file.
+
+git commit -am to commit file.
+
